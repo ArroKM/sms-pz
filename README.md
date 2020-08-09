@@ -13,7 +13,7 @@ $ apt install python2
 $ pip2 install requests
 $ git clone https://github.com/ArroKM/sms-pz
 $ cd sms-pz
-$ python2 unli.py <Nomor> <jumlah>
+$ python2 run.py <Nomor> <jumlah>
 ```
 
 <h3>Usage</h3>
